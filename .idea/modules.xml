@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_Ai.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_Ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kotlin_Ai.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kotlin_Ai.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kotlin_Ai.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kotlin_Ai.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kotlin_Ai.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kotlin_Ai.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kotlin_Ai.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kotlin_Ai.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.test.iml" />
+    </modules>
+  </component>
+</project>
