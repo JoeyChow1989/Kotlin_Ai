@@ -1,20 +1,31 @@
-//应用插件
+//引用插件
 plugins {
     id("com.android.application")
     kotlin("android")
     kotlin("android.extensions")
+    kotlin("kapt")
+
 }
 
 android {
-    compileSdkVersion(AppConfig.compileSdkVersion)
-    buildToolsVersion(AppConfig.buildToolsVersion)
+    compileSdk = AppConfig.compileSdkVersion
+    buildToolsVersion = AppConfig.buildToolsVersion
     defaultConfig {
-        applicationId = AppConfig.applicationId
-        minSdkVersion(AppConfig.minSdkVersion)
-        targetSdkVersion(AppConfig.targetSdkVersion)
+        applicationId = AppConfig.application_Id
+        minSdk = AppConfig.minSdkVersion
+        targetSdk = AppConfig.targetSdkVersion
         versionCode = AppConfig.versionCode
         versionName = AppConfig.versionName
 
+        kapt {
+            arguments {
+                arg("AROUTER_MODULE_NAME", project.name)
+            }
+        }
+    }
+
+    kotlinOptions {
+        jvmTarget = "1.8"
     }
 
     //签名配置
@@ -64,12 +75,27 @@ android {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
     }
+
+    ndkVersion = "20.0.5594570"
 }
 
 dependencies {
     implementation(fileTree(mapOf("dir" to "libs", "include" to listOf("*jar"))))
-    implementation(DependenciesConfig.KTX_CORE)
-    implementation(DependenciesConfig.STD_LIB)
-    implementation(DependenciesConfig.APP_COMPAT)
+
+    implementation(project(":lib_base"))
+
+    if (!ModuleConfig.isApp) {
+        implementation(project(":module_app_manager"))
+        implementation(project(":module_constellation"))
+        implementation(project(":module_developer"))
+        implementation(project(":module_joke"))
+        implementation(project(":module_map"))
+        implementation(project(":module_setting"))
+        implementation(project(":module_voice_setting"))
+        implementation(project(":module_weather"))
+    }
+
+    //运行时注解
+    kapt(DependenciesConfig.AROUTER_COMPILER)
 
 }

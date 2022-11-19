@@ -2,26 +2,26 @@ object KotlinConstants{
     //Gradle 版本
     const val gradle_version = "4.2.2"
     //Kotlin 版本
-    const val kotlin_version = "1.7.10"
+    const val kotlin_version = "1.3.71"
 }
 
 //应用配置
 object AppConfig {
 
     //依赖版本
-    const val compileSdkVersion = 30
+    const val compileSdkVersion = 31
 
     //编译工具版本
     const val buildToolsVersion = "30.0.3"
 
     //包名
-    const val applicationId = "com.kotlin.ai.helper"
+    const val application_Id = "com.kotlin.ai.helper"
 
     //最小支持SDK
     const val minSdkVersion = 21
 
     //当前基于SDK
-    const val targetSdkVersion = 30
+    const val targetSdkVersion = 31
 
     //版本编码
     const val versionCode = 1
@@ -37,10 +37,10 @@ object DependenciesConfig {
     const val STD_LIB = "org.jetbrains.kotlin:kotlin-stdlib-jdk7:${KotlinConstants.kotlin_version}"
 
     //Android标准库
-    const val APP_COMPAT = "androidx.appcompat:appcompat:1.3.0"
+    const val APP_COMPAT = "androidx.appcompat:appcompat:1.1.0"
 
     //Kotlin核心库
-    const val KTX_CORE = "androidx.core:core-ktx:1.2.0"
+    const val KTX_CORE = "androidx.core:core-ktx:1.7.0"
 
     //EventBus
     const val EVENT_BUS = "org.greenrobot:eventbus:3.2.0"
@@ -73,4 +73,21 @@ object DependenciesConfig {
 
     //图表
     const val CHART = "com.github.PhilJay:MPAndroidChart:v3.1.0"
+}
+
+//module配置
+object ModuleConfig{
+
+    //Module是否App
+    var isApp = false
+
+    //包名
+    const val MODULE_APP_MANAGER = "com.kotlin.ai.module_app_manager"
+    const val MODULE_CONSTELLATION = "com.kotlin.ai.module_constellation"
+    const val MODULE_DEVELOPER = "com.kotlin.ai.module_developer"
+    const val MODULE_JOKE = "com.kotlin.ai.module_joke"
+    const val MODULE_MAP = "com.kotlin.ai.module_map"
+    const val MODULE_SETTING = "com.kotlin.ai.module_setting"
+    const val MODULE_VOICE_SETTING = "com.kotlin.ai.module_voice_setting"
+    const val MODULE_WEATHER = "com.kotlin.ai.module_weather"
 }

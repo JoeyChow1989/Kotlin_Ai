@@ -10,6 +10,50 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_Ai.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_base/Kotlin_Ai.lib_base.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_base/Kotlin_Ai.lib_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_base/Kotlin_Ai.lib_base.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_base/Kotlin_Ai.lib_base.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_base/Kotlin_Ai.lib_base.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_base/Kotlin_Ai.lib_base.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_base/Kotlin_Ai.lib_base.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_base/Kotlin_Ai.lib_base.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_network/Kotlin_Ai.lib_network.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_network/Kotlin_Ai.lib_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_network/Kotlin_Ai.lib_network.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_network/Kotlin_Ai.lib_network.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_network/Kotlin_Ai.lib_network.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_network/Kotlin_Ai.lib_network.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_network/Kotlin_Ai.lib_network.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_network/Kotlin_Ai.lib_network.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_voice/Kotlin_Ai.lib_voice.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_voice/Kotlin_Ai.lib_voice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_voice/Kotlin_Ai.lib_voice.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_voice/Kotlin_Ai.lib_voice.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_voice/Kotlin_Ai.lib_voice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_voice/Kotlin_Ai.lib_voice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_voice/Kotlin_Ai.lib_voice.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_voice/Kotlin_Ai.lib_voice.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_app_manager/Kotlin_Ai.module_app_manager.iml" filepath="$PROJECT_DIR$/.idea/modules/module_app_manager/Kotlin_Ai.module_app_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_app_manager/Kotlin_Ai.module_app_manager.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_app_manager/Kotlin_Ai.module_app_manager.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_app_manager/Kotlin_Ai.module_app_manager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/module_app_manager/Kotlin_Ai.module_app_manager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_app_manager/Kotlin_Ai.module_app_manager.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_app_manager/Kotlin_Ai.module_app_manager.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_constellation/Kotlin_Ai.module_constellation.iml" filepath="$PROJECT_DIR$/.idea/modules/module_constellation/Kotlin_Ai.module_constellation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_constellation/Kotlin_Ai.module_constellation.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_constellation/Kotlin_Ai.module_constellation.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_constellation/Kotlin_Ai.module_constellation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/module_constellation/Kotlin_Ai.module_constellation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_constellation/Kotlin_Ai.module_constellation.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_constellation/Kotlin_Ai.module_constellation.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_developer/Kotlin_Ai.module_developer.iml" filepath="$PROJECT_DIR$/.idea/modules/module_developer/Kotlin_Ai.module_developer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_developer/Kotlin_Ai.module_developer.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_developer/Kotlin_Ai.module_developer.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_developer/Kotlin_Ai.module_developer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/module_developer/Kotlin_Ai.module_developer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_developer/Kotlin_Ai.module_developer.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_developer/Kotlin_Ai.module_developer.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_joke/Kotlin_Ai.module_joke.iml" filepath="$PROJECT_DIR$/.idea/modules/module_joke/Kotlin_Ai.module_joke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_joke/Kotlin_Ai.module_joke.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_joke/Kotlin_Ai.module_joke.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_joke/Kotlin_Ai.module_joke.main.iml" filepath="$PROJECT_DIR$/.idea/modules/module_joke/Kotlin_Ai.module_joke.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_joke/Kotlin_Ai.module_joke.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_joke/Kotlin_Ai.module_joke.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_map/Kotlin_Ai.module_map.iml" filepath="$PROJECT_DIR$/.idea/modules/module_map/Kotlin_Ai.module_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_map/Kotlin_Ai.module_map.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_map/Kotlin_Ai.module_map.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_map/Kotlin_Ai.module_map.main.iml" filepath="$PROJECT_DIR$/.idea/modules/module_map/Kotlin_Ai.module_map.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_map/Kotlin_Ai.module_map.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_map/Kotlin_Ai.module_map.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_setting/Kotlin_Ai.module_setting.iml" filepath="$PROJECT_DIR$/.idea/modules/module_setting/Kotlin_Ai.module_setting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_setting/Kotlin_Ai.module_setting.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_setting/Kotlin_Ai.module_setting.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_setting/Kotlin_Ai.module_setting.main.iml" filepath="$PROJECT_DIR$/.idea/modules/module_setting/Kotlin_Ai.module_setting.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_setting/Kotlin_Ai.module_setting.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_setting/Kotlin_Ai.module_setting.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_voice_setting/Kotlin_Ai.module_voice_setting.iml" filepath="$PROJECT_DIR$/.idea/modules/module_voice_setting/Kotlin_Ai.module_voice_setting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_voice_setting/Kotlin_Ai.module_voice_setting.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_voice_setting/Kotlin_Ai.module_voice_setting.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_voice_setting/Kotlin_Ai.module_voice_setting.main.iml" filepath="$PROJECT_DIR$/.idea/modules/module_voice_setting/Kotlin_Ai.module_voice_setting.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_voice_setting/Kotlin_Ai.module_voice_setting.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_voice_setting/Kotlin_Ai.module_voice_setting.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_weather/Kotlin_Ai.module_weather.iml" filepath="$PROJECT_DIR$/.idea/modules/module_weather/Kotlin_Ai.module_weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_weather/Kotlin_Ai.module_weather.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_weather/Kotlin_Ai.module_weather.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_weather/Kotlin_Ai.module_weather.main.iml" filepath="$PROJECT_DIR$/.idea/modules/module_weather/Kotlin_Ai.module_weather.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_weather/Kotlin_Ai.module_weather.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/module_weather/Kotlin_Ai.module_weather.unitTest.iml" />
     </modules>
   </component>
 </project>

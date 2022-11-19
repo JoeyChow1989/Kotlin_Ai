@@ -14,8 +14,7 @@ buildscript {
     dependencies {
         classpath("com.android.tools.build:gradle:${KotlinConstants.gradle_version}")
         classpath("com.github.dcendents:android-maven-gradle-plugin:2.1")
-        classpath("com.novoda:bintray-release:0.9.2")
-        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:${KotlinConstants.kotlin_version}")
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10")
     }
 }
 
